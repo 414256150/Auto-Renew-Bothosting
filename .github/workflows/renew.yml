@@ -1,4 +1,4 @@
-name: Auto Renew Bot-hosting-git
+name: Auto Renew Bot-hosting
 
 on:
   schedule:
